@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o [Pedro Ruan]
+# 👋 Olá, eu sou o Pedro Ruan
 
 🎯 Estudante de Tecnologia da Informação  
 💻 Focado em desenvolvimento e programação  
