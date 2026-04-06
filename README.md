@@ -34,5 +34,5 @@ Tenho conhecimentos em lógica de programação, HTML, CSS e Python, e estou sem
 ---
 
 ## 📫 Contato
-- Email: [seu email]
-- LinkedIn: [seu linkedin]
+- Email: pedroruangoncalves1@gmail.com
+- LinkedIn: www.linkedin.com/in/pedro-ruan-a1150b255
